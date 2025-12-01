@@ -1,11 +1,11 @@
-## 👋 Hi there
+##  Hi there
 
 <h1 align="center">Hi ! I'm Dhouha</h1>
 <h3 align="center">Computer Engineering Student • Cybersecurity & Networking Enthusiast</h3>
 
 ---
 
-## 🔗 Connect with me  
+##  Connect with me  
 <p align="left">
   <a href="https://www.linkedin.com/in/dhouha-satouri-180493286" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
@@ -17,49 +17,51 @@
 
 ---
 
-## 🌟 About Me
-I’m a passionate computer engineering student, eager to explore **cybersecurity, networking, and full-stack development**. I love **learning new technologies** and building projects that solve real-world problems.  
+##  About Me
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&background=0A0A0A00&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Dhouha;I'm+passionate+about+Cybersecurity+%26+Networking;I+love+Full-Stack+Development+and+learning+new+tech" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Skills & Technologies
+## Skills & Technologies
 
-### 🎨 Frontend
+###  DevOps & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,aws,bash" />
 </p>
 
-### 🧩 Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,php,java,c,cpp" />
-</p>
-
-### 🗄️ Databases
+###  Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45"/>
 </p>
 
-### ☁️ DevOps & Cloud
+###  Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,aws,bash" />
+  <img src="https://skillicons.dev/icons?i=python,django,php,java,c,cpp" />
 </p>
 
-### 📱 Embedded & Mobile
+###  Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" />
+</p>
+
+###  Embedded & Mobile
 <p align="left">
   <img src="https://skillicons.dev/icons?i=android" />
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45"/>
 </p>
 
-### 🔧 Other Tools
+### Other Tools
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45"/>
 </p>
 
 ---
 
-## 🏆 GitHub Stats
+##  GitHub Stats
 <p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dhouha-satouri&show_icons=true&theme=radical" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhouha-satouri&hide=html,css&layout=compact&theme=radical" />
@@ -70,18 +72,9 @@ I’m a passionate computer engineering student, eager to explore **cybersecurit
 ## 💼 Projects / Portfolio
 
 ### 1. **E-commerce ERP Module**
-- Developed a full-stack module using **Django** and **React.js**  
+- Developed a full-stack module using **Django** 
 - Integrated stock synchronization, order management & analytics  
 - Focused on automation and improving productivity for clients
-
-### 2. **Network Security Lab**
-- Implemented **VPN & IPsec tunnels** between containers  
-- Monitored traffic with **Wireshark**  
-- Learned practical network security and packet analysis
-
-### 3. **Arduino / Embedded Systems Projects**
-- Developed automated systems using **Arduino & sensors**  
-- Integrated with cloud services and mobile app notifications  
 
 ---
 
@@ -90,4 +83,3 @@ I’m a passionate computer engineering student, eager to explore **cybersecurit
 - **LinkedIn:** [Dhouha Satouri](https://www.linkedin.com/in/dhouha-satouri-180493286)
 
 ---
-
