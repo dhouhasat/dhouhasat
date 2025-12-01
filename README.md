@@ -1,7 +1,13 @@
 ##  Hi there
 
-<h1 align="center">Hi ! I'm Dhouha</h1>
-<h3 align="center">Computer Engineering Student • Cybersecurity & Networking Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFCC&background=0A0A0A00&center=true&vCenter=true&width=800&lines=Hi+!+I'm+Dhouha" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=FFFFFF&background=0A0A0A00&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Cybersecurity+%26+Networking+Enthusiast" alt="Typing SVG" />
+</h3>
+
 
 ---
 
@@ -18,9 +24,7 @@
 ---
 
 ##  About Me
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&background=0A0A0A00&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Dhouha;I'm+passionate+about+Cybersecurity+%26+Networking;I+love+Full-Stack+Development+and+learning+new+tech" alt="Typing SVG" />
-</p>
+I’m a passionate computer engineering student, eager to explore **cybersecurity, networking, and full-stack development**. I love **learning new technologies** and building projects that solve real-world problems.  
 
 ---
 
