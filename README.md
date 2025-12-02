@@ -66,14 +66,6 @@ I’m a passionate computer engineering student, eager to explore **cybersecurit
 
 ---
 
-##  GitHub Stats
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dhouha-satouri&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhouha-satouri&hide=html,css&layout=compact&theme=radical" />
-</p>
-
----
-
 ##  Projects / Portfolio
 
 ### 2. **IPSec Site-to-Site VPN (Kali ↔ Ubuntu)**
@@ -83,7 +75,7 @@ I’m a passionate computer engineering student, eager to explore **cybersecurit
 - Learned practical **network security, VPN setup, and troubleshooting**  
 
 <p align="center">
-  <img src="assets/ipsec-screenshot.png" alt="IPSec VPN Screenshot" width="700"/>
+  <img src="/Users/dhouha/assets/ipsec-screenshot.png" alt="IPSec VPN Screenshot" width="700"/>
 </p>
 
 ---
