@@ -74,12 +74,17 @@ I’m a passionate computer engineering student, eager to explore **cybersecurit
 
 ---
 
-## 💼 Projects / Portfolio
+##  Projects / Portfolio
 
-### 1. **E-commerce ERP Module**
-- Developed a full-stack module using **Django** 
-- Integrated stock synchronization, order management & analytics  
-- Focused on automation and improving productivity for clients
+### 2. **IPSec Site-to-Site VPN (Kali ↔ Ubuntu)**
+- Configured a **secure IPSec VPN** between **Kali Linux** and **Ubuntu** virtual machines  
+- Ensured **encrypted communication** between two  networks  
+- Monitored traffic with **Wireshark** to verify encryption and packet flow  
+- Learned practical **network security, VPN setup, and troubleshooting**  
+
+<p align="center">
+  <img src="assets/ipsec-screenshot.png" alt="IPSec VPN Screenshot" width="700"/>
+</p>
 
 ---
 
