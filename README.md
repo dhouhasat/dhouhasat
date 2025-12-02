@@ -1,4 +1,3 @@
-<img width="674" height="538" alt="IPSec-screenshot" src="https://github.com/user-attachments/assets/1057dc0c-a42d-437c-958b-83765f368120" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0A1F44&background=0A0A0A00&center=true&vCenter=true&width=800&lines=Hi+!+I'm+Dhouha" alt="Typing SVG" />
@@ -75,7 +74,8 @@ I’m a passionate computer engineering student, eager to explore **cybersecurit
 - Learned practical **network security, VPN setup, and troubleshooting**  
 
 <p align="center">
-  <img src="assets/ipsec-screenshot.png" alt="IPSec VPN Screenshot" width="700"/>
+ <img width="674" height="538" alt="IPSec-screenshot" src="https://github.com/user-attachments/assets/1057dc0c-a42d-437c-958b-83765f368120" />
+
 </p>
 
 ---
