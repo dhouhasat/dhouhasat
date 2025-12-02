@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0A1F44&background=0A0A0A00&center=true&vCenter=true&width=800&lines=Hi+!+I'm+Dhouha" alt="Typing SVG" />
 </h1>
@@ -7,11 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=0A1F44&background=0A0A0A00&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Cybersecurity+%26+Networking+Enthusiast" alt="Typing SVG" />
 </h3>
 
-
-
 ---
 
-##  Connect with me  
+## Connect with me  
 <p align="left">
   <a href="https://www.linkedin.com/in/dhouha-satouri-180493286" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
@@ -23,36 +20,47 @@
 
 ---
 
-##  About Me
+## About Me
 I’m a passionate computer engineering student, eager to explore **cybersecurity, networking, and full-stack development**. I love **learning new technologies** and building projects that solve real-world problems.  
 
 ---
 
 ## Skills & Technologies
 
-###  DevOps & Cloud
+###  Operating Systems & Virtualization
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,aws,bash" />
+  <img src="https://skillicons.dev/icons?i=linux" width="45"/> <!-- Kali & Ubuntu -->
+  <img src="https://cdn.worldvectorlogo.com/logos/virtualbox-6.svg" width="45"/> <!-- VirtualBox -->
 </p>
 
-###  Databases
+### Networking & Simulation
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Cisco_Packet_Tracer_Logo.png" width="45"/> <!-- Packet Tracer -->
+</p>
+
+### DevOps & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,bash" />
+</p>
+
+### Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45"/>
 </p>
 
-###  Backend
+### Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,php,java,c,cpp" />
 </p>
 
-###  Frontend
+### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" />
 </p>
 
-###  Embedded & Mobile
+### Embedded & Mobile
 <p align="left">
   <img src="https://skillicons.dev/icons?i=android" />
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45"/>
@@ -65,17 +73,16 @@ I’m a passionate computer engineering student, eager to explore **cybersecurit
 
 ---
 
-##  Projects / Portfolio
+## Projects / Portfolio
 
-### 2. **IPSec Site-to-Site VPN (Kali ↔ Ubuntu)**
+### 1. **IPSec Site-to-Site VPN (Kali ↔ Ubuntu)**
 - Configured a **secure IPSec VPN** between **Kali Linux** and **Ubuntu** virtual machines  
-- Ensured **encrypted communication** between two  networks  
+- Ensured **encrypted communication** between two networks  
 - Monitored traffic with **Wireshark** to verify encryption and packet flow  
 - Learned practical **network security, VPN setup, and troubleshooting**  
 
 <p align="center">
- <img width="674" height="538" alt="IPSec-screenshot" src="https://github.com/user-attachments/assets/1057dc0c-a42d-437c-958b-83765f368120" />
-
+  <img width="674" height="538" alt="IPSec-screenshot" src="https://github.com/user-attachments/assets/1057dc0c-a42d-437c-958b-83765f368120" />
 </p>
 
 ---
@@ -83,5 +90,3 @@ I’m a passionate computer engineering student, eager to explore **cybersecurit
 ## 📫 Contact Me
 - **Email:** dhouhasatouri7@gmail.com  
 - **LinkedIn:** [Dhouha Satouri](https://www.linkedin.com/in/dhouha-satouri-180493286)
-
----
